@@ -1,0 +1,1 @@
+I have worked on the iMX6 wanboard from Freescale semiconductors. Where in, compiled a led blinking program sucessfully on a custom os. I'll try to update the steps taken to accomplish this, in the near future.
